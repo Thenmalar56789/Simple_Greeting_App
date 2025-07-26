@@ -19,4 +19,4 @@ My first app, I developed to test my skills with just three interfaces. A beginn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Thenmalar56789/SimpleGreetingApp.git
+   https://github.com/Thenmalar56789/Simple_Greeting_App.git
