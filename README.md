@@ -20,3 +20,6 @@ My first app, I developed to test my skills with just three interfaces. A beginn
 1. Clone this repository:
    ```bash
    https://github.com/Thenmalar56789/Simple_Greeting_App.git
+
+📱 Download and try the app on your Android device: (Click on this link 👇 to download APK)
+https://drive.google.com/file/d/16plNqE8SfiBm_zeLwn8-CaPA0DC7XeY5/view?usp=drivesdk
